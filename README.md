@@ -1,2 +1,2 @@
-# Atividade-26-08
-Atividade com colega de turma
+# Atividade do dia 26/08/24
+Meu nome é João Pedro
